@@ -1,0 +1,61 @@
+// Written by Nick Gammon
+// February 2011
+
+
+#include <SPI.h>
+
+byte buf [200];
+volatile unsigned int pos;
+volatile unsigned int pos2;
+volatile boolean process_it;
+
+void setup (void)
+{
+  Serial.begin (115200);   // debugging
+  
+  // turn on SPI in slave mode
+  //SPCR |= bit (SPE);
+  SPCR |= (1<<SPE)|(0<<DORD)|(0<<MSTR)|(1<<CPOL)|(1<<CPHA);
+
+  // have to send on master in, *slave out*
+  pinMode(MISO, OUTPUT);
+  
+  // get ready for an interrupt 
+  pos = 0;   // buffer empty
+  pos2 = 0;   // buffer empty
+  process_it = false;
+
+  // now turn on interrupts
+  SPI.attachInterrupt();
+
+}  // end of setup
+
+
+// SPI interrupt routine
+ISR (SPI_STC_vect)
+{
+byte c = SPDR;  // grab byte from SPI Data Register
+
+    buf [(pos++)%sizeof buf] = c;
+    
+    switch(c){
+     case 0x07:
+    break; 
+    }
+    
+
+}  // end of interrupt routine SPI_STC_vect
+
+// main loop - wait for flag set in interrupt routine
+void loop (void)
+{
+  process_it=false;
+  while(pos2!=pos){
+    Serial.print(buf [(pos2++)%sizeof buf], HEX);
+      Serial.print(" ");
+      process_it=true;
+  }
+  if(process_it)
+  Serial.println (" - END");
+    
+}  // end of loop

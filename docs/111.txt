@@ -1,0 +1,379 @@
+﻿пульт
+белый		MISO
+жёлтый		GND
+чёрный		VCC
+зелёный		CSN
+красный		SCK
+оранжевый	MOSI
+синий		CE
+
+плата
+13			SCK
+12			MISO
+11			MOSI
+10			SS (CSN)
+
+vmodule
+зелёный		GND
+желтый		VCC 3.3
+синий		CE
+фиолетовый	SCK
+серый		MISO
+какаха		IRQ	
+красный		MOSI
+оранжевый	CSN
+
+
+7 0 27 7F FFFFFFE1 FFFFFFA0       7F FFFFFF80 44 FFFFFF80 FFFFFF80 1C 48 0 20 A 0  - END
+7 0 27 7F FFFFFFE1 FFFFFFA0 FFFFFF83 FFFFFF80 44 FFFFFF80 FFFFFF80 1C 48 0 20 A 0  - END
+
+
+
+7 0 27 7F E1 A0 11 80 44 80 80 1C 48 0 20 A 0  - END
+7 0 27 7F E1 A0 E 80 44 80 80 1C 48 0 20 A 0  - END
+7 0 27 7F E1 A0 C 80 44 80 80 1C 48 0 20 A 0  - END
+7 0 27 7F E1 A0 B 80 44 80 80 1C 48 0 20 A 0  - END
+7 0 27 7F E1 A0 A 80 44 80 80 1C 48 0 20 A 0  - END
+7 0 27 7F E1 A0 7 80 44 80 80 1C 48 0 20 A 0  - END
+7 0 27 7F E1 A0 5 80 44 80 80 1C 48 0 20 A 0  - END
+
+2A FC 7E 99 11 C1 30 FC 7E 99 11 C1 7 0 27 7F E1 A0 0 80 2C 80 80 1D 4D 0 20 A 7 0 27 7F E1 A0 0 80 2C 80 80 1D 4D 0 20 A 0  - END
+
+
+7 0 20 A 21 3F 22 3F 23 3 24 1F 25 3C 26 7 27 7 28 0 29 0 2C C3 2D C4 2E C5 2F C6 31 8 32 8 33 8 34 8 35 8 36 8 37 0 3C 3F 1 0 1D 0 3C 3F 3D 7 1D 0 2A FC 7E 99 11 C1 30 FC 7E 99 11 C1 7 0 50 53 20 40 4B 1 E2 21 C0 4B 0 0 22 D0 FC 8C 2 23 99 0 39 21 24 D9 96 82 1B 25 24 6 64  - END
+25 3C E1 2A 65 65 65 65 65 30 65 65 65 65 65 E1 A0 FC 7E 99 11 56 AA 40 0 20 A 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 64  - END
+
+7 0 20 A 21 3F 22 3F 23 3 24 1F 25 3C 26 7 27 7 28 0 29 0 2C C3 2D C4 2E C5 2F C6 31 8 32 8 33 8 34 8 35 8 36 8 37 0 3C 3F 1 0 1D 0 3C 3F 3D 7 1D 0 2A FC 7E 99 11 C1 30 FC 7E 99 11 C1 7 0 50 53 20 40 4B 1 E2 21 C0 4B 0 0 22 D0 FC 8C 2 23 99 0 39 21 24 D9 96 82 1B 25 24 6 64  - END
+25 3C E1 2A 65 65 65 65 65 30 65 65 65 65 65 E1 A0 FC 7E 99 11 56 AA 40 0 20 A 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 64  - END
+
+7 0 20 A 21 3F 22 3F 23 3 24 1F 25 3C 26 7 27 7 28 0 29 0 2C C3 2D C4 2E C5 2F C6 31 8 32 8 33 8 34 8 35 8 36 8 37 0 3C 3F 1 0 1D 0 3C 3F 3D 7 1D 0 2A FC 7E 99 11 C1 30 FC 7E 99 11 C1 7 0 50 53 20 40 4B 1 E2 21 C0 4B 0 0 22 D0 FC 8C 2 23 99 0 39 21 24 D9 96 82 1B 25 24 6 7F A6 2C 0 12 73 0 2D 46 B4 80 0 24 DF 96 82 1B 24 D9 96 82 1B 7 0 20 A E1 27 7F 2A FC 7E 99 11 C1 30 FC 7E 99 11 C1 0  - END
+25 3C E1 2A 65 65 65 65 65 30 65 65 65 65 65 E1 A0 FC 7E 99 11 56 AA 40 0 20 A 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 F4  - END
+
+7 0 20 A 21 3F 22 3F 23 3 24 1F 25 3C 26 7 27 7 28 0 29 0 2C C3 2D C4 2E C5 2F C6 31 8 32 8 33 8 34 8 35 8 36 8 37 0 3C 3F 1 0 1D 0 3C 3F 3D 7 1D 0 2A FC 7E 99 11 C1 30 FC 7E 99 11 C1 7 0 50 53 20 40 4B 1 E2 21 C0 4B 0 0 22 D0 FC 8C 2 23 99 0 39 21 24 D9 96 82 1B 25 24 6 7F A6 2C 0 12 73 0 2D 46 B4 80 0 24 DF 96 82 1B 24 D9 96 82 1B 7 0 20 A E1 27 7F 2A FC 7E 99 11 C1 30 FC 7E 99 11 C1 25 3C E1 2A 65 65 65 65 65 30 65 65 65 65 65 E1 A0 FC 7E 99 11 56 AA 40 0 20 A 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 0  - END
+
+
+7 0 
+20 A 
+21 3F 
+22 3F 
+23 3 
+24 1F 
+25 3C 
+26 7 
+27 7 
+28 0 
+29 0 
+2C C3 
+2D C4 
+2E C5 
+2F C6 
+31 8 
+32 8 
+33 8 
+34 8 
+35 8 
+36 8 
+37 0 
+3C 3F 
+1 0 
+1D 0 
+3C 3F 
+3D 7 
+1D 0 
+2A FC 7E 99 11 C1 
+30 FC 7E 99 11 C1 
+7 0 
+50 53 
+20 40 4B 1 E2 
+21 C0 4B 0 0 
+22 D0 FC 8C 2 
+23 99 0 39 21 
+24 D9 96 82 1B 
+25 24 6 7F A6 
+2C 0 12 73 0 
+2D 46 B4 80 0 
+24 DF 96 82 1B 
+24 D9 96 82 1B 
+7 0 
+20 A E1 27 7F 
+2A FC 7E 99 11 C1 
+30 FC 7E 99 11 C1 
+25 3C 
+E1 - FLUSH_TX
+2A 65 65 65 65 65 
+30 65 65 65 65 65 
+E1 - FLUSH_TX
+A0 FC 7E 99 11 56 (A0 - W_TX_PAYLOAD)
+AA 40 0 (AA - W_ACK_PAYLOAD)
+20 A 
+7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 7 0 0  - END
+
+7 61 E0 DF 7 0
+
+7 0 
+7 E 
+C 18 18 C E E 60 C 30 C C 7 C E C0 70 30 18 60 4 1C 60 20 18 10 4D E5 20 C 50 4 8 18 18 4 6 1C 70 7 0
+
+
+// SPCR |= (1<<SPE)|(1<<DORD)|(0<<MSTR);
+E0 0 4 50 84 FC 44 FC C4 C0 24 F8 A4 3C 64 E0 E4 E0 14 0 94 0 34 C3 B4 23 74 A3 F4 63 8C 10 4C 10 CC 10 2C 10 AC 10 6C 10 EC 0 3C FC 80 0 B8 0 3C FC BC E0 B8 0 54 3F 7E 99 88 83 C 3F 7E 99 88 83 E0 0 A CA 4 2 D2 80 47 84 3 D2 0 0 44 B 3F 31 40 C4 99 0 9C 84 24 9B 69 41 D8 A4 24 60 FE 65 34 0 48 CE 0 B4 62 2D 1 0 24 FB 69 41 D8 24 9B 69 41 D8 E0 0 4 50 87 E4 FE 54 3F 7E 99 88 83 C 3F 7E 99 88 83  - END
+A4 3C  - END
+87 54 A6 A6 A6 A6 A6 C A6 A6 A6 A6 A6 87 5 3F 7E 99 88 6A 55 2 0 4 50 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0 0 E0  - END
+
+
+
+
+left	right	valeu			   *  *  *  *  *  *  *                  
+				1	2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17
+down	mid		07 00 27 7F E1 A0 00 80 44 80 80 1C 48 00 20 0A 00  - END
+up		mid		07 00 27 7F E1 A0 FF 80 44 80 80 1C 48 00 20 0A 00  - END
+mid		mid		07 00 27 7F E1 A0 81 80 44 80 80 1C 48 00 20 0A 00  - END
+left	mid		07 00 27 7F E1 A0 5B 41 44 80 80 1C 48 00 20 0A 00  - END
+
+8 - вертикальное левого
+7 - горизонтальное левого
+10 - вертикального правого
+11 - горизонтального правого
+9- кнопка 1+
+9- кнопка 1-
+12 -  кнопка 5-6
+13 - кнопки 7-8
+
+
+
+
+
+// Written by Nick Gammon
+// February 2011
+/**
+ * Send arbitrary number of bits at whatever clock rate (tested at 500 KHZ and 500 HZ).
+ * This script will capture the SPI bytes, when a '\n' is recieved it will then output
+ * the captured byte stream via the serial.
+ */
+
+#include <SPI.h>
+
+unsigned char buf [100];
+volatile byte pos;
+volatile boolean process_it;
+int incomingByte;
+
+void setup (void)
+{
+  Serial.begin (115200);   // debugging
+
+  // have to send on master in, *slave out*
+  pinMode(MISO, OUTPUT);
+  
+  // turn on SPI in slave mode
+  SPCR |= _BV(SPE);
+  
+  // get ready for an interrupt 
+  pos = 0;   // buffer empty
+  process_it = false;
+
+  // now turn on interrupts
+  SPI.attachInterrupt();
+
+}  // end of setup
+
+
+// SPI interrupt routine
+ISR (SPI_STC_vect)
+{
+byte c = SPDR;  // grab byte from SPI Data Register
+  
+  // add to buffer if room
+  if (pos < sizeof buf)
+    {
+    buf [pos++] = c;
+    
+    // example: newline means time to process buffer
+    if (c == '\n')
+      process_it = true;
+      
+    }  // end of room available
+}  // end of interrupt routine SPI_STC_vect
+
+// main loop - wait for flag set in interrupt routine
+void loop (void)
+{
+  if (process_it)
+    {
+    buf [pos] = 0;  
+    for(int i=0; i<=pos; i++){
+      Serial.print(buf[i], HEX);
+      Serial.print(" ");
+    }
+    Serial.println (" - END");
+    pos = 0;
+    process_it = false;
+    }  // end of flag set
+}  // end of loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#include <SPI.h>
+#include "nRF24L01.h"
+#include "RF24.h"
+#include "printf.h"
+
+RF24 radio(9,10);
+
+unsigned char _id[] = {0xFC, 0x7E, 0x99, 0x11, 0xC1};
+unsigned char _channel = 0x3C;
+
+const uint64_t _id2 = 0xFC7E9911C1LL;
+
+void setup(void)
+{
+
+  Serial.begin(57600);
+  printf_begin();
+  //printf_begin();
+  //printf("\n\rRF24/examples/scanner/\n\r");
+
+  radio.begin();
+  radio.setChannel(_channel);
+  radio.setRetries(1, 10);
+  radio.setAutoAck(true);
+  radio.enableAckPayload();
+  radio.setDataRate(RF24_1MBPS);
+  
+  radio.openWritingPipe(_id2);
+  radio.openReadingPipe(1, _id2);
+  
+  
+  radio.stopListening();
+  
+  
+  
+  //radio.setPayloadSize(5);
+  radio.printDetails();
+  //radio.setAutoAck(false);
+
+  // Get into standby mode
+  //radio.startListening();
+  //radio.stopListening();
+
+}
+
+void loop(void)
+{
+radio.stopListening();
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#include <SPI.h>
+#include "nRF24L01.h"
+#include "RF24.h"
+#include "printf.h"
+
+RF24 radio(9,10);
+
+unsigned char _id[] = {0xFC, 0x7E, 0x99, 0x11, 0xC1};
+unsigned char _channel = 0x3C;
+
+uint8_t _id1 = 0x6565656565LL;
+uint8_t _id2 = 0xFC7E9911C1LL;
+
+void openWritingPipe(uint64_t value)
+{
+  radio.write_register(RX_ADDR_P0, reinterpret_cast<uint8_t*>(&value), 5);
+  radio.write_register(TX_ADDR, reinterpret_cast<uint8_t*>(&value), 5);
+}
+
+void setup(void)
+{
+
+  Serial.begin(57600);
+  printf_begin();
+  //printf_begin();
+  //printf("\n\rRF24/examples/scanner/\n\r");
+
+  radio.begin();
+  radio.printDetails();
+  radio.write_register(CONFIG, B1011 );
+  delayMicroseconds(150);
+  
+  radio.setAutoAck(true);
+  radio.write_register(EN_AA, B111111 );
+  radio.write_register(EN_RXADDR, B111111);
+  radio.write_register(SETUP_AW, B11);
+  radio.write_register(SETUP_RETR, 0X1A ) ;
+  radio.write_register(RF_CH, 0X3C ) ;
+  radio.write_register(RF_SETUP, 0X07);
+  radio.write_register(STATUS,_BV(RX_DR) | _BV(TX_DS) | _BV(MAX_RT) );
+  radio.write_register(RX_ADDR_P2, 0XC3);
+  radio.write_register(RX_ADDR_P3, 0XC4);
+  radio.write_register(RX_ADDR_P4, 0XC5);
+  radio.write_register(RX_ADDR_P5, 0XC6);
+  radio.write_register(RX_PW_P0, 0X08);
+  radio.write_register(RX_PW_P1, 0X08);
+  radio.write_register(RX_PW_P2, 0X08);
+  radio.write_register(RX_PW_P3, 0X08);
+  radio.write_register(RX_PW_P4, 0X08);
+  radio.write_register(RX_PW_P5, 0X08);
+  radio.write_register(FEATURE, radio.read_register(FEATURE) | _BV(EN_DPL) );
+  radio.toggle_features();
+  radio.write_register(FEATURE, radio.read_register(FEATURE) | _BV(EN_DPL) );
+  radio.write_register(FEATURE, B111 );
+  openWritingPipe(_id2);
+  radio.flush_tx();
+  radio.flush_rx();
+  openWritingPipe(_id1);
+  
+ /* radio.setChannel(_channel);
+  radio.setRetries(1, 10);
+  radio.setAutoAck(true);
+  radio.enableAckPayload();
+  radio.setDataRate(RF24_1MBPS);
+  
+  radio.openWritingPipe(_id2);
+  radio.openReadingPipe(1, _id2);*/
+  
+  
+  //radio.stopListening();
+  
+  
+  
+  //radio.setPayloadSize(5);
+  radio.printDetails();
+  //radio.setAutoAck(false);
+
+  // Get into standby mode
+  //radio.startListening();
+  //radio.stopListening();
+
+}
+
+void loop(void)
+{
+//radio.stopListening();
+//Serial.println(radio.get_status());
+delayMicroseconds(150);
+}
